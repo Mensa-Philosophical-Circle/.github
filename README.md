@@ -29,8 +29,7 @@ Don't let the digital revolution pass you by. Empower yourself with digital skil
 Together, we can build a future where no one is left behind.
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-MPC-blue.svg)](https://twitter.com/DigitalSkillsEmpowerment)
-[![Facebook](https://img.shields.io/badge/Facebook-MPC-blue.svg)](https://www.facebook.com/DigitalSkillsEmpowerment)
+[![Twitter](https://img.shields.io/badge/Twitter-MPC-blue.svg)](https://twitter.com/mpcircle)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MPC-blue.svg)](https://www.linkedin.com/showcase/mensa-philosophical-circle/)
-[![Instagram](https://img.shields.io/badge/Instagram-MPC-blue.svg)](https://www.instagram.com/DigitalSkillsEmpowerment)
+[![Instagram](https://img.shields.io/badge/Instagram-MPC-blue.svg)](https://instagram.com/mensaphilosophicalcircle)
 
