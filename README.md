@@ -1,7 +1,7 @@
 # Mensa Philosophical Circle
 
 # About Us
-MPC is a forward-thinking organization dedicated to empowering individuals with the skills they need to succeed in the digital age. We believe that in today's rapidly evolving world, it is crucial for individuals to adapt and thrive in the digital landscape. Our mission is to bridge the digital skills gap by providing high-quality training, resources, and support to individuals from all walks of life.
+MPC was a company created on the 5th of September 2022 dedicated to empowering individuals with the skills they need to succeed in the digital age. We believe that in today's rapidly evolving world, it is crucial for individuals to adapt and thrive in the digital landscape. Our mission is to bridge the digital skills gap by providing high-quality training, resources, and support to individuals from all walks of life.
 
 # Our Vision
 We envision a future where everyone has equal access to the digital opportunities that the modern world offers. We strive to create an inclusive society where individuals can harness the power of technology and unleash their potential.
