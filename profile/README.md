@@ -1,7 +1,8 @@
 # Mensa Philosophical Circle
 
 # About Us
-At MPC, we are more than a startup; we are a dynamic ecosystem that thrives on the synergy of learning, doing, and serving. Our mission is to revolutionize personal growth and societal progress through a unique blend of transformative training, real-life project engagement, and cutting-edge technology services.
+At MPC, we are more than a startup; we are a dynamic ecosystem that thrives on the synergy of learning, doing, and serving.
+We revolutionize personal growth and societal progress through a unique blend of transformative training, real-life project engagement, and cutting-edge technology services.
 
 # Our Mission
 
