@@ -1,16 +1,15 @@
 # Mensa Philosophical Circle
 
 # About Us
-At MPC, we are more than a startup; we are a dynamic ecosystem that thrives on the synergy of learning, doing, and serving.
-We revolutionize personal growth and societal progress through a unique blend of transformative training, real-life project engagement, and cutting-edge technology services.
+Mensa Philosophical Circle is not just another startup; it's a community-driven initiative designed exclusively for tech enthusiasts who aspire to enhance their professional experience and contribute meaningfully to live projects. We understand the inherent challenges faced by techies in gaining practical exposure and honing their skills beyond theoretical knowledge. That's why we've created a dynamic platform where individuals can thrive in a collaborative environment, gaining hands-on experience while working on real-world projects.
 
 # Our Mission
-
-At MPC, our mission is to catalyze personal growth and positive societal impact by providing individuals with the tools, knowledge, and opportunities to become better versions of themselves while actively contributing to real-life projects that shape a better world.
+Our mission is twofold: to empower techies with practical experience in their respective fields and to bridge the gap between theoretical learning and industry demands. We believe that by providing a space where individuals can engage in meaningful projects, exchange ideas, and receive mentorship from experienced professionals, we can cultivate a community of skilled, confident, and adaptable tech professionals.
 
 # Our Vision
-At MPC, our vision is to pioneer a global movement where empowered individuals transcend their potential, collaborating on innovative real-life projects that reshape the fabric of society. We envision a world where personal growth is intertwined with societal progress, leading to positive, sustainable, and inclusive change.
+At Mensa Philosophical Circle, our vision is to revolutionize the landscape of tech professional development by fostering a vibrant, collaborative community where knowledge meets application. We envision a world where every tech enthusiast, regardless of their background, has the opportunity to seamlessly transition from theoretical learning to practical expertise. By creating a dynamic platform that bridges the gap between academia and industry, we aim to nurture a generation of innovative, skilled, and adaptable tech professionals who are equipped to tackle real-world challenges and drive technological advancement.
 
+We aspire to be the leading hub for tech enthusiasts to gain invaluable hands-on experience, exchange cutting-edge ideas, and receive guidance from seasoned experts. We strive to empower individuals to not only enhance their professional skills but also to contribute meaningfully to impact projects, ultimately shaping the future of technology with confidence and competence
 
 # Offerings and Services at MPC
 
@@ -33,6 +32,6 @@ At MPC, our vision is to pioneer a global movement where empowered individuals t
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-MPC-blue.svg)](https://twitter.com/mpcircle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MPC-blue.svg)](https://www.linkedin.com/company/mensa-philosophical-circus/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MPC-blue.svg)](https://www.linkedin.com/company/mensaphilosophicalcircle/)
 [![Instagram](https://img.shields.io/badge/Instagram-MPC-blue.svg)](https://instagram.com/mensaphilosophicalcircle)
 
