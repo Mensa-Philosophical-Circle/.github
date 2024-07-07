@@ -18,24 +18,7 @@ We aspire to be the premier hub for tech interns to gain invaluable hands-on exp
    - Encouraging Diversity and Inclusion: Promote a diverse and inclusive environment where all interns feel valued and empowered.
    - Leveraging Technology for Good: Inspire interns to use their skills to contribute to socially responsible and sustainable technological advancements.
 
-# Offerings and Services at MPC
-
-1. **Real-Life Project Engagements:**
-   - Sustainable Solutions: Collaborate on projects focusing on renewable energy, waste reduction, and sustainable urban planning.
-   - Community Development: Engage in initiatives that uplift local communities, addressing social inequalities, education, and healthcare.
-   - Tech for Good: Apply technology to solve real-world problems, such as building apps for disability assistance or environmental monitoring.
-   - Business Ventures: Join entrepreneurial projects, from ideation to execution, and gain practical startup experience.
-
-2. **Cutting-Edge Technology Services:**
-   - Software Development: Build custom software solutions tailored to clients' needs, spanning web applications, mobile apps, and enterprise systems.
-   - Automation Solutions: Streamline business processes through intelligent automation, enhancing efficiency and productivity.
-   - Tech Consultation: Provide expert advice and consultation on technology strategies, digital transformation, and innovation roadmaps.
-
-
-3. **Community Collaboration and Networking:**
-   - Peer Networking: Connect with like-minded individuals, professionals, and enthusiasts who share a passion for learning and innovation.
-   - Collaborative Projects: Join project teams that leverage diverse skills, fostering collaboration and cross-disciplinary learning.
-   - Knowledge Sharing: Participate in workshops, discussions, and events that promote knowledge exchange and idea sharing.
+ 
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-MPC-blue.svg)](https://twitter.com/mpcircle)
