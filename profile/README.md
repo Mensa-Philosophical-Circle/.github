@@ -26,6 +26,6 @@ Together, we can build a future where no one is left behind.
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-MPC-blue.svg)](https://twitter.com/mpcircle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MPC-blue.svg)](https://www.linkedin.com/showcase/mensa-philosophical-circle/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MPC-blue.svg)](https://www.linkedin.com/company/mensaphilosophicalcircle)
 [![Instagram](https://img.shields.io/badge/Instagram-MPC-blue.svg)](https://instagram.com/mensaphilosophicalcircle)
 
